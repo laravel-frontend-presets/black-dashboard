@@ -1,0 +1,250 @@
+
+/*
+ =========================================================
+ * Black Dashboard - v1.0.0
+ =========================================================
+
+ * Product Page: https://www.creative-tim.com/product/black-dashboard
+ * Copyright 2018 Creative Tim (http://www.creative-tim.com) & UPDIVISION (https://updivision.com)
+
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
+
+ // Core
+
+@import "black-dashboard/custom/functions";
+@import "black-dashboard/bootstrap/functions";
+
+@import "black-dashboard/custom/variables";
+@import "black-dashboard/bootstrap/variables";
+
+@import "black-dashboard/custom/mixins";
+@import "black-dashboard/bootstrap/mixins";
+
+ // Bootstrap components
+
+@import "black-dashboard/bootstrap/root";
+@import "black-dashboard/bootstrap/reboot";
+@import "black-dashboard/bootstrap/type";
+@import "black-dashboard/bootstrap/images";
+@import "black-dashboard/bootstrap/code";
+@import "black-dashboard/bootstrap/grid";
+@import "black-dashboard/bootstrap/tables";
+@import "black-dashboard/bootstrap/forms";
+@import "black-dashboard/bootstrap/buttons";
+@import "black-dashboard/bootstrap/transitions";
+@import "black-dashboard/bootstrap/dropdown";
+@import "black-dashboard/bootstrap/button-group";
+@import "black-dashboard/bootstrap/input-group";
+@import "black-dashboard/bootstrap/custom-forms";
+@import "black-dashboard/bootstrap/nav";
+@import "black-dashboard/bootstrap/navbar";
+@import "black-dashboard/bootstrap/card";
+@import "black-dashboard/bootstrap/breadcrumb";
+@import "black-dashboard/bootstrap/pagination";
+@import "black-dashboard/bootstrap/badge";
+@import "black-dashboard/bootstrap/jumbotron";
+@import "black-dashboard/bootstrap/alert";
+@import "black-dashboard/bootstrap/progress";
+@import "black-dashboard/bootstrap/media";
+@import "black-dashboard/bootstrap/list-group";
+@import "black-dashboard/bootstrap/close";
+@import "black-dashboard/bootstrap/modal";
+@import "black-dashboard/bootstrap/tooltip";
+@import "black-dashboard/bootstrap/popover";
+@import "black-dashboard/bootstrap/carousel";
+@import "black-dashboard/bootstrap/utilities";
+@import "black-dashboard/bootstrap/print";
+
+ // Custom components
+
+ @import "black-dashboard/custom/alerts.scss";
+ @import "black-dashboard/custom/buttons.scss";
+ @import "black-dashboard/custom/dropdown.scss";
+ @import "black-dashboard/custom/footer.scss";
+ @import "black-dashboard/custom/forms.scss";
+ @import "black-dashboard/custom/images.scss";
+ @import "black-dashboard/custom/modal.scss";
+ @import "black-dashboard/custom/navbar.scss";
+ @import "black-dashboard/custom/type.scss";
+ @import "black-dashboard/custom/tables";
+ @import "black-dashboard/custom/checkboxes-radio";
+ @import "black-dashboard/custom/fixed-plugin";
+ @import "black-dashboard/custom/sidebar-and-main-panel.scss";
+ @import "black-dashboard/custom/misc.scss";
+ @import "black-dashboard/custom/rtl.scss";
+ @import "black-dashboard/custom/input-group.scss";
+
+
+ // Vendor / Plugins
+
+@import "black-dashboard/custom/vendor/plugin-perfect-scrollbar.scss";
+@import "black-dashboard/custom/vendor/plugin-animate-bootstrap-notify.scss";
+
+// light mode
+
+@import "black-dashboard/custom/white-content.scss";
+
+// Cards
+
+@import 'black-dashboard/custom/card';
+@import "black-dashboard/custom/cards/card-chart";
+@import "black-dashboard/custom/cards/card-map";
+@import "black-dashboard/custom/cards/card-user";
+@import "black-dashboard/custom/cards/card-task";
+@import "black-dashboard/custom/cards/card-plain";
+
+.full-page {
+    &.pricing-page, &.login-page, &.lock-page, &.register-page {
+        min-height: 100vh;
+        background: radial-gradient(#1e1e2f, #1e1e24);
+    }
+
+    >.content {
+        padding-bottom: 150px;
+        padding-top: 150px;
+    }
+
+    .footer {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        padding-left: 48px;
+        padding-right: 48px;
+    }
+
+    .login-page {
+        .card-login {
+            &.card-white {
+                .card-header {
+                    .card-title {
+                        color: #ffffff;
+                    }
+                }
+            }
+
+            .card-header {
+                .card-title {
+                    position: relative;
+                    font-size: 5em;
+                    font-weight: 900;
+                    color: #222a42;
+                    text-transform: lowercase;
+                    margin-left: -5px;
+                    z-index: 1;
+                }
+
+                img {
+                    position: absolute;
+                }
+
+                padding: 0 0 100px;
+                overflow: hidden;
+            }
+
+             .input-group:last-child {
+                margin-bottom: 40px;
+            }
+
+            border-radius: 0.4285rem;
+            padding-bottom: 0.7rem;
+        }
+
+        .link {
+            font-size: 10px;
+            text-decoration: none;
+        }
+    }
+
+    &.register-page {
+        .info-horizontal {
+            text-align: left !important;
+            padding: 0px 0px 20px;
+
+            .icon {
+                margin-top: 0;
+
+                >i {
+                    font-size: 2em;
+                }
+            }
+
+            .description {
+                overflow: hidden;
+
+                .info-title {
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+}
+
+.card-register {
+    .card-header {
+        padding: 0 0 65px;
+        overflow: hidden;
+        z-index: 1;
+
+        .card-title {
+            position: relative;
+            font-size: 5em;
+            font-weight: 900;
+            color: #222a42;
+            text-transform: lowercase;
+            margin-left: -5px;
+            z-index: 1;
+        }
+    }
+
+    .form-check {
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
+    .card-footer {
+        margin-bottom: 10px;
+        margin-top: 24px;
+    }
+
+    &..card-white {
+        .card-header {
+            .card-title {
+                color: #ffffff;
+            }
+        }
+    }
+
+    .card-img {
+        position: absolute;
+        left: 0;
+        top: -15%;
+        width: 70%;
+    }
+}
+
+.info-horizontal {
+    .icon {
+        float: left;
+        margin-top: 23px;
+        margin-right: 10px;
+    }
+}
+
+.icon{
+    &.icon-warning {
+        color: #ff8d72;
+    }
+
+    &.icon-primary {
+        color: #e14eca;
+    }
+
+    &.icon-info {
+        color: #1d8cf8;
+    }
+}

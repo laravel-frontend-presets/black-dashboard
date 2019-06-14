@@ -1,0 +1,22 @@
+{
+    "name": "laravel-frontend-presets/black-dashboard",
+    "description": "Laravel 5.x Front-end preset for black dashboard",
+    "license": "MIT",
+    "homepage": "https://github.com/creativetimofficial/black-dashboard-laravel",
+    "keywords": ["Laravel", "Preset", "Black"],
+    "require": {
+        "laravel/framework": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelFrontendPresets\\BlackPreset\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LaravelFrontendPresets\\BlackPreset\\BlackPresetServiceProvider"
+            ]
+        }
+    }
+}
