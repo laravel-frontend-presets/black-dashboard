@@ -113,7 +113,7 @@
                   <a href="#" class="btn btn-round btn-default disabled">Current Version</a>
                 </td>
                 <td class="text-center">
-                  <a target="_blank" href="https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/" class="btn btn-round btn-primary">Upgrade to PRO</a>
+                  <a target="_blank" href="https://www.creative-tim.com/register" class="btn btn-round btn-primary">Register to get notified about pro</a>
                 </td>
               </tr>
             </tbody>
