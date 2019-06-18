@@ -513,7 +513,9 @@ We use GitHub Issues as the official bug tracker for the Black Dashboard Laravel
 - [More products](https://www.creative-tim.com/bootstrap-themes?ref=adn-readme) from Creative Tim
 - Check our Bundles [here](https://www.creative-tim.com/bundles??ref=adn-readme)
 
-### Social Media
+## Social Media
+
+### Creative Tim:
 
 Twitter: <https://twitter.com/CreativeTim?ref=adnp-readme>
 
@@ -522,6 +524,18 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=adnp-readme>
 Dribbble: <https://dribbble.com/creativetim?ref=adnp-readme>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=adnp-readme>
+
+
+### Updivision:
+
+Twitter: <https://twitter.com/updivision?ref=adnp-readme>
+
+Facebook: <https://www.facebook.com/updivision?ref=adnp-readme>
+
+Linkedin: <https://www.linkedin.com/company/updivision?ref=adnp-readme>
+
+Updivision Blog: <https://updivision.com/blog/?ref=adnp-readme>
+
 
 ## Credits
 
