@@ -417,24 +417,16 @@ The documentation for the Black Dashboard Laravel is hosted at our [website](htt
         │           reset.blade.php
         │           
         ├───layouts
-        │   │   app.blade.php
-        │   │   footer.blade.php
-        │   │   
-        │   ├───footers
-        │   │       auth.blade.php
-        │   │       guest.blade.php
-        │   │       
-        │   ├───navbars
-        │   │   │   navbar.blade.php
-        │   │   │   sidebar.blade.php
-        │   │   │   
-        │   │   └───navs
-        │   │           auth.blade.php
-        │   │           guest.blade.php
-        │   │           
-        │   └───page_templates
-        │           auth.blade.php
-        │           guest.blade.php
+        │       │   app.blade.php
+        │       │   footer.blade.php
+        │       │   
+        │       └───navbars
+        │           │   navbar.blade.php
+        │           │   sidebar.blade.php
+        │           │   
+        │           └───navs
+        │                   auth.blade.php
+        │                   guest.blade.php
         │           
         ├───pages
         │       icons.blade.php
