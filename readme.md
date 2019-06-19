@@ -1,4 +1,4 @@
-# [Black Dashboard Laravel - Free Frontend Preset for Laravel](https://black-dashboard-laravel.creative-tim.com/?ref=adnp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Black%20Dashboard%20Laravel%20is%20a%20Free%20Frontend%20Preset%20for%20Laravel%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//black-dashboard-laravel.creative-tim.com/%20%23%black%20%23design%20%23dashboard%20%23laravel%20%23free%20via%20%40CreativeTim)
+# [Black Dashboard Laravel - Free Frontend Preset for Laravel](https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Black%20Dashboard%20Laravel%20is%20a%20Free%20Frontend%20Preset%20for%20Laravel%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//black-dashboard-laravel.creative-tim.com/%20%23%black%20%23design%20%23dashboard%20%23laravel%20%23free%20via%20%40CreativeTim)
 
 <a href="https://packagist.org/packages/laravel-frontend-presets/black-dashboard"><img src="https://poser.pugx.org/laravel-frontend-presets/black-dashboard/v/stable.svg" alt="Latest Stable Version"></a> ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/laravel-frontend-presets/black-dashboard.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/black-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/laravel-frontend-presets/black-dashboard.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/black-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -151,23 +151,23 @@ public function store(UserRequest $request, User $model)
 
 ## Versions
 
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=adnp-readme)
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=adnp-readme)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=bdlf-readme)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=bdlf-readme)
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=adnp-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://black-dashboard-laravel.creative-tim.com/?ref=adnp-readme)
+| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=bdlf-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme)
 
 ## Demo
 
 | Register | Login | Dashboard |
 | --- | --- | ---  |
-| [![Register](/screens/Register.png)](https://black-dashboard-laravel.creative-tim.com/register?ref=adnp-readme)  | [![Login](/screens/Login.png)](https://black-dashboard-laravel.creative-tim.com/login?ref=adnp-readme)  | [![Dashboard](/screens/Dashboard.png)](https://black-dashboard-laravel.creative-tim.com/?ref=adnp-readme)
+| [![Register](/screens/Register.png)](https://black-dashboard-laravel.creative-tim.com/register?ref=bdlf-readme)  | [![Login](/screens/Login.png)](https://black-dashboard-laravel.creative-tim.com/login?ref=bdlf-readme)  | [![Dashboard](/screens/Dashboard.png)](https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme)
 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
-| [![Profile Page](screens/Profile.png)](https://black-dashboard-laravel.creative-tim.com/profile?ref=adnp-readme)  | [![Users Page](screens/Users.png)](https://black-dashboard-laravel.creative-tim.com/user?ref=adnp-readme) | [![Tables Page](screens/Tables.png)](https://black-dashboard-laravel.creative-tim.com/table-list?ref=adnp-readme)
-[View More](https://black-dashboard-laravel.creative-tim.com/?ref=adnp-readme)
+| [![Profile Page](screens/Profile.png)](https://black-dashboard-laravel.creative-tim.com/profile?ref=bdlf-readme)  | [![Users Page](screens/Users.png)](https://black-dashboard-laravel.creative-tim.com/user?ref=bdlf-readme) | [![Tables Page](screens/Tables.png)](https://black-dashboard-laravel.creative-tim.com/table-list?ref=bdlf-readme)
+[View More](https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme)
 
 ## Documentation
 The documentation for the Black Dashboard Laravel is hosted at our [website](https://black-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=adn-readme).
@@ -457,9 +457,9 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <https://black-dashboard-laravel.creative-tim.com/?ref=adnp-readme>
-- Download Page: <https://www.creative-tim.com/product/black-dashboard-laravel?ref=adnp-readme>
-- Documentation: <https://black-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=adnp-readme>
+- Demo: <https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme>
+- Download Page: <https://www.creative-tim.com/product/black-dashboard-laravel?ref=bdlf-readme>
+- Documentation: <https://black-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=bdlf-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
 - Issues: [Github Issues Page](https://github.com/laravel-frontend-presets/black-dashboard/issues)
@@ -467,7 +467,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=adnp-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://black-dashboard-laravel.creative-tim.com/?ref=adnp-readme)
+| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=bdlf-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme)
 
 ## Change log
 
@@ -475,20 +475,20 @@ Please see the [changelog](CHANGELOG.md) for more information on what has change
 
 ## Credits
 
-- [Creative Tim](https://creative-tim.com/?ref=adnp-readme)
+- [Creative Tim](https://creative-tim.com/?ref=bdlf-readme)
 - [UPDIVISION](https://updivision.com)
 
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Black Dashboard Laravel. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Black Dashboard Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=adnp-readme).
+1. Make sure that you are using the latest version of the Black Dashboard Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=bdlf-readme).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Licensing
 
-- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=adnp-readme)
+- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=bdlf-readme)
 - [Creative Tim License](https://www.creative-tim.com/license).
 
 
@@ -509,27 +509,27 @@ We use GitHub Issues as the official bug tracker for the Black Dashboard Laravel
 
 ### Creative Tim:
 
-Twitter: <https://twitter.com/CreativeTim?ref=adnp-readme>
+Twitter: <https://twitter.com/CreativeTim?ref=bdlf-readme>
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=adnp-readme>
+Facebook: <https://www.facebook.com/CreativeTim?ref=bdlf-readme>
 
-Dribbble: <https://dribbble.com/creativetim?ref=adnp-readme>
+Dribbble: <https://dribbble.com/creativetim?ref=bdlf-readme>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=adnp-readme>
+Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=bdlf-readme>
 
 
 ### Updivision:
 
-Twitter: <https://twitter.com/updivision?ref=adnp-readme>
+Twitter: <https://twitter.com/updivision?ref=bdlf-readme>
 
-Facebook: <https://www.facebook.com/updivision?ref=adnp-readme>
+Facebook: <https://www.facebook.com/updivision?ref=bdlf-readme>
 
-Linkedin: <https://www.linkedin.com/company/updivision?ref=adnp-readme>
+Linkedin: <https://www.linkedin.com/company/updivision?ref=bdlf-readme>
 
-Updivision Blog: <https://updivision.com/blog/?ref=adnp-readme>
+Updivision Blog: <https://updivision.com/blog/?ref=bdlf-readme>
 
 
 ## Credits
 
-- [Creative Tim](https://creative-tim.com/?ref=adnp-readme)
+- [Creative Tim](https://creative-tim.com/?ref=bdlf-readme)
 - [UPDIVISION](https://updivision.com)
