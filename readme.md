@@ -1,4 +1,4 @@
-# [Black Dashboard Laravel - Free Frontend Preset for Laravel](https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Black%20Dashboard%20Laravel%20is%20a%20Free%20Frontend%20Preset%20for%20Laravel%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//black-dashboard-laravel.creative-tim.com/%20%23%black%20%23design%20%23dashboard%20%23laravel%20%23free%20via%20%40CreativeTim)
+# [Black Dashboard Laravel - Free Frontend Preset for Laravel](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Black%20Dashboard%20Laravel%20is%20a%20Free%20Frontend%20Preset%20for%20Laravel%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//black-dashboard-laravel.creative-tim.com/%20%23%black%20%23design%20%23dashboard%20%23laravel%20%23free%20via%20%40CreativeTim)
 
 <a href="https://packagist.org/packages/laravel-frontend-presets/black-dashboard"><img src="https://poser.pugx.org/laravel-frontend-presets/black-dashboard/v/stable.svg" alt="Latest Stable Version"></a> ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/laravel-frontend-presets/black-dashboard.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/black-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/laravel-frontend-presets/black-dashboard.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/black-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -20,7 +20,7 @@ If you don't already have an Apache local environment with PHP and MySQL, use on
  - Linux: https://howtoubuntu.org/how-to-install-lamp-on-ubuntu
  - Mac: https://wpshout.com/quick-guides/how-to-install-mamp-on-your-mac/
 
-Also, you will need to install Composer: https://getcomposer.org/doc/00-intro.md   
+Also, you will need to install Composer: https://getcomposer.org/doc/00-intro.md
 And Laravel: https://laravel.com/docs/5.8/installation
 
 ## Installation
@@ -151,23 +151,23 @@ public function store(UserRequest $request, User $model)
 
 ## Versions
 
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=bdlf-readme)
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=bdlf-readme)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=bdl-readme)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme)
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=bdlf-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme)
+| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=bdl-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme)
 
 ## Demo
 
 | Register | Login | Dashboard |
 | --- | --- | ---  |
-| [![Register](/screens/Register.png)](https://black-dashboard-laravel.creative-tim.com/register?ref=bdlf-readme)  | [![Login](/screens/Login.png)](https://black-dashboard-laravel.creative-tim.com/login?ref=bdlf-readme)  | [![Dashboard](/screens/Dashboard.png)](https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme)
+| [![Register](/screens/Register.png)](https://black-dashboard-laravel.creative-tim.com/register?ref=bdl-readme)  | [![Login](/screens/Login.png)](https://black-dashboard-laravel.creative-tim.com/login?ref=bdl-readme)  | [![Dashboard](/screens/Dashboard.png)](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme)
 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
-| [![Profile Page](screens/Profile.png)](https://black-dashboard-laravel.creative-tim.com/profile?ref=bdlf-readme)  | [![Users Page](screens/Users.png)](https://black-dashboard-laravel.creative-tim.com/user?ref=bdlf-readme) | [![Tables Page](screens/Tables.png)](https://black-dashboard-laravel.creative-tim.com/table-list?ref=bdlf-readme)
-[View More](https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme)
+| [![Profile Page](screens/Profile.png)](https://black-dashboard-laravel.creative-tim.com/profile?ref=bdl-readme)  | [![Users Page](screens/Users.png)](https://black-dashboard-laravel.creative-tim.com/user?ref=bdl-readme) | [![Tables Page](screens/Tables.png)](https://black-dashboard-laravel.creative-tim.com/table-list?ref=bdl-readme)
+[View More](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme)
 
 ## Documentation
 The documentation for the Black Dashboard Laravel is hosted at our [website](https://black-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=adn-readme).
@@ -457,9 +457,9 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme>
-- Download Page: <https://www.creative-tim.com/product/black-dashboard-laravel?ref=bdlf-readme>
-- Documentation: <https://black-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=bdlf-readme>
+- Demo: <https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme>
+- Download Page: <https://www.creative-tim.com/product/black-dashboard-laravel?ref=bdl-readme>
+- Documentation: <https://black-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=bdl-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
 - Issues: [Github Issues Page](https://github.com/laravel-frontend-presets/black-dashboard/issues)
@@ -467,7 +467,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=bdlf-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://black-dashboard-laravel.creative-tim.com/?ref=bdlf-readme)
+| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=bdl-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme)
 
 ## Change log
 
@@ -475,20 +475,20 @@ Please see the [changelog](CHANGELOG.md) for more information on what has change
 
 ## Credits
 
-- [Creative Tim](https://creative-tim.com/?ref=bdlf-readme)
+- [Creative Tim](https://creative-tim.com/?ref=bdl-readme)
 - [UPDIVISION](https://updivision.com)
 
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Black Dashboard Laravel. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Black Dashboard Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=bdlf-readme).
+1. Make sure that you are using the latest version of the Black Dashboard Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=bdl-readme).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Licensing
 
-- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=bdlf-readme)
+- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=bdl-readme)
 - [Creative Tim License](https://www.creative-tim.com/license).
 
 
@@ -509,27 +509,27 @@ We use GitHub Issues as the official bug tracker for the Black Dashboard Laravel
 
 ### Creative Tim:
 
-Twitter: <https://twitter.com/CreativeTim?ref=bdlf-readme>
+Twitter: <https://twitter.com/CreativeTim?ref=bdl-readme>
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=bdlf-readme>
+Facebook: <https://www.facebook.com/CreativeTim?ref=bdl-readme>
 
-Dribbble: <https://dribbble.com/creativetim?ref=bdlf-readme>
+Dribbble: <https://dribbble.com/creativetim?ref=bdl-readme>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=bdlf-readme>
+Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=bdl-readme>
 
 
 ### Updivision:
 
-Twitter: <https://twitter.com/updivision?ref=bdlf-readme>
+Twitter: <https://twitter.com/updivision?ref=bdl-readme>
 
-Facebook: <https://www.facebook.com/updivision?ref=bdlf-readme>
+Facebook: <https://www.facebook.com/updivision?ref=bdl-readme>
 
-Linkedin: <https://www.linkedin.com/company/updivision?ref=bdlf-readme>
+Linkedin: <https://www.linkedin.com/company/updivision?ref=bdl-readme>
 
-Updivision Blog: <https://updivision.com/blog/?ref=bdlf-readme>
+Updivision Blog: <https://updivision.com/blog/?ref=bdl-readme>
 
 
 ## Credits
 
-- [Creative Tim](https://creative-tim.com/?ref=bdlf-readme)
+- [Creative Tim](https://creative-tim.com/?ref=bdl-readme)
 - [UPDIVISION](https://updivision.com)
