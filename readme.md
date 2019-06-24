@@ -1,4 +1,4 @@
-# [Black Dashboard Laravel - Free Frontend Preset for Laravel](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Black%20Dashboard%20Laravel%20is%20a%20Free%20Frontend%20Preset%20for%20Laravel%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//black-dashboard-laravel.creative-tim.com/%20%23%black%20%23design%20%23dashboard%20%23laravel%20%23free%20via%20%40CreativeTim)
+# [Black Dashboard Laravel - Free Frontend Preset for Laravel](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Black%20Dashboard%20Laravel%20is%20a%20Free%20Frontend%20Preset%20for%20Laravel%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//www.creative-tim.com/live/black-dashboard-laravel%20%23%black%20%23design%20%23dashboard%20%23laravel%20%23free%20via%20%40CreativeTim)
 
 <a href="https://packagist.org/packages/laravel-frontend-presets/black-dashboard"><img src="https://poser.pugx.org/laravel-frontend-presets/black-dashboard/v/stable.svg" alt="Latest Stable Version"></a> ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/laravel-frontend-presets/black-dashboard.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/black-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/laravel-frontend-presets/black-dashboard.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/black-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -156,21 +156,21 @@ public function store(UserRequest $request, User $model)
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=bdl-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme)
+| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=bdl-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/164/thumb/opt_blk_laravel_thumbnail.jpg?1561102244)](https://www.creative-tim.com/live/black-dashboard-laravel?ref=bdl-readme)
 
 ## Demo
 
 | Register | Login | Dashboard |
 | --- | --- | ---  |
-| [![Register](/screens/Register.png)](https://black-dashboard-laravel.creative-tim.com/register?ref=bdl-readme)  | [![Login](/screens/Login.png)](https://black-dashboard-laravel.creative-tim.com/login?ref=bdl-readme)  | [![Dashboard](/screens/Dashboard.png)](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme)
+| [![Register](/screens/Register.png)](https://www.creative-tim.com/live/black-dashboard-laravel/register?ref=bdl-readme)  | [![Login](/screens/Login.png)](https://www.creative-tim.com/live/black-dashboard-laravel/login?ref=bdl-readme)  | [![Dashboard](/screens/Dashboard.png)](https://www.creative-tim.com/live/black-dashboard-laravel/?ref=bdl-readme)
 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
-| [![Profile Page](screens/Profile.png)](https://black-dashboard-laravel.creative-tim.com/profile?ref=bdl-readme)  | [![Users Page](screens/Users.png)](https://black-dashboard-laravel.creative-tim.com/user?ref=bdl-readme) | [![Tables Page](screens/Tables.png)](https://black-dashboard-laravel.creative-tim.com/table-list?ref=bdl-readme)
-[View More](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme)
+| [![Profile Page](screens/Profile.png)](https://www.creative-tim.com/live/black-dashboard-laravel/profile?ref=bdl-readme)  | [![Users Page](screens/Users.png)](https://www.creative-tim.com/live/black-dashboard-laravel/user?ref=bdl-readme) | [![Tables Page](screens/Tables.png)](https://www.creative-tim.com/live/black-dashboard-laravel/table-list?ref=bdl-readme)
+[View More](https://www.creative-tim.com/live/black-dashboard-laravel/?ref=bdl-readme)
 
 ## Documentation
-The documentation for the Black Dashboard Laravel is hosted at our [website](https://black-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=bdl-readme).
+The documentation for the Black Dashboard Laravel is hosted at our [website](https://www.creative-tim.com/live/black-dashboard-laravel/docs/getting-started/laravel-setup.html?ref=bdl-readme).
 
 ## File Structure
 ```
@@ -457,9 +457,9 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme>
+- Demo: <https://www.creative-tim.com/live/black-dashboard-laravel/?ref=bdl-readme>
 - Download Page: <https://www.creative-tim.com/product/black-dashboard-laravel?ref=bdl-readme>
-- Documentation: <https://black-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=bdl-readme>
+- Documentation: <https://www.creative-tim.com/live/black-dashboard-laravel/docs/getting-started/laravel-setup.html?ref=bdl-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
 - Issues: [Github Issues Page](https://github.com/laravel-frontend-presets/black-dashboard/issues)
@@ -467,7 +467,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=bdl-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme)
+| [![Black Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?ref=bdl-readme) | [![Black Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/164/thumb/opt_blk_laravel_thumbnail.jpg?1561102244)](https://www.creative-tim.com/live/black-dashboard-laravel/?ref=bdl-readme)
 
 ## Change log
 
