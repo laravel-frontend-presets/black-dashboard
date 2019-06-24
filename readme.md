@@ -170,7 +170,7 @@ public function store(UserRequest $request, User $model)
 [View More](https://black-dashboard-laravel.creative-tim.com/?ref=bdl-readme)
 
 ## Documentation
-The documentation for the Black Dashboard Laravel is hosted at our [website](https://black-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=adn-readme).
+The documentation for the Black Dashboard Laravel is hosted at our [website](https://black-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=bdl-readme).
 
 ## File Structure
 ```
@@ -498,12 +498,12 @@ We use GitHub Issues as the official bug tracker for the Black Dashboard Laravel
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 - [Blog Creative Tim](http://blog.creative-tim.com/)
 - [Free Products](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=adn-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=adn-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=adn-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=adn-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=adn-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles??ref=adn-readme)
+- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=bdl-readme) from Creative Tim
+- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=bdl-readme) from Creative Tim
+- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=bdl-readme) from Creative Tim
+- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=bdl-readme) from Creative Tim
+- [More products](https://www.creative-tim.com/bootstrap-themes?ref=bdl-readme) from Creative Tim
+- Check our Bundles [here](https://www.creative-tim.com/bundles??ref=bdl-readme)
 
 ## Social Media
 
