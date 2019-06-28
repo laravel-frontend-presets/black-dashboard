@@ -166,7 +166,7 @@ public function store(UserRequest $request, User $model)
 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
-| [![Profile Page](screens/Profile.png)](https://black-dashboard-laravel.creative-tim.com/profile?ref=bdl-readme)  | [![Users Page](screens/Users.png)](https://black-dashboard-laravel.creative-tim.com/user?ref=bdl-readme) | [![Tables Page](screens/Tables.png)](https://black-dashboard-laravel.creative-tim.com/table-list?ref=bdl-readme)
+| [![Profile Page](screens/Profile.png)](https://black-dashboard-laravel.creative-tim.com/profile?ref=bdl-readme)  | [![Users Page](screens/Users.png)](https://black-dashboard-laravel.creative-tim.com/user?ref=bdl-readme) | [![Tables Page](screens/Tables.png)](https://black-dashboard-laravel.creative-tim.com/tables?ref=bdl-readme)
 [View More](https://www.creative-tim.com/live/black-dashboard-laravel/?ref=bdl-readme)
 
 ## Documentation
