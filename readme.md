@@ -162,15 +162,15 @@ public function store(UserRequest $request, User $model)
 
 | Register | Login | Dashboard |
 | --- | --- | ---  |
-| [![Register](/screens/Register.png)](https://www.creative-tim.com/live/black-dashboard-laravel/register?ref=bdl-readme)  | [![Login](/screens/Login.png)](https://www.creative-tim.com/live/black-dashboard-laravel/login?ref=bdl-readme)  | [![Dashboard](/screens/Dashboard.png)](https://www.creative-tim.com/live/black-dashboard-laravel/?ref=bdl-readme)
+| [![Register](/screens/Register.png)](https://black-dashboard-laravel.creative-tim.com/register?ref=bdl-readme)  | [![Login](/screens/Login.png)](https://black-dashboard-laravel.creative-tim.com/login?ref=bdl-readme)  | [![Dashboard](/screens/Dashboard.png)](https://www.creative-tim.com/live/black-dashboard-laravel/?ref=bdl-readme)
 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
-| [![Profile Page](screens/Profile.png)](https://www.creative-tim.com/live/black-dashboard-laravel/profile?ref=bdl-readme)  | [![Users Page](screens/Users.png)](https://www.creative-tim.com/live/black-dashboard-laravel/user?ref=bdl-readme) | [![Tables Page](screens/Tables.png)](https://www.creative-tim.com/live/black-dashboard-laravel/table-list?ref=bdl-readme)
+| [![Profile Page](screens/Profile.png)](https://black-dashboard-laravel.creative-tim.com/profile?ref=bdl-readme)  | [![Users Page](screens/Users.png)](https://black-dashboard-laravel.creative-tim.com/user?ref=bdl-readme) | [![Tables Page](screens/Tables.png)](https://black-dashboard-laravel.creative-tim.com/table-list?ref=bdl-readme)
 [View More](https://www.creative-tim.com/live/black-dashboard-laravel/?ref=bdl-readme)
 
 ## Documentation
-The documentation for the Black Dashboard Laravel is hosted at our [website](https://www.creative-tim.com/live/black-dashboard-laravel/docs/getting-started/laravel-setup.html?ref=bdl-readme).
+The documentation for the Black Dashboard Laravel is hosted at our [website](https://black-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=bdl-readme).
 
 ## File Structure
 ```
