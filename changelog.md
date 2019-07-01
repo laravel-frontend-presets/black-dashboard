@@ -9,3 +9,6 @@ All notable changes to `Black Dashboard` frontend preset for Laravel will be doc
 - Laravel Auth preset
 - Change user profile
 - User CRUD
+
+## Version 1.0.1
+  - Link to the pro theme
