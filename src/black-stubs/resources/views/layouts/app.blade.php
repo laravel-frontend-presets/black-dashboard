@@ -198,14 +198,6 @@
                                 white_color = true;
                             }
                     });
-
-                    $('.light-badge').click(function() {
-                        $('body').addClass('white-content');
-                    });
-
-                    $('.dark-badge').click(function() {
-                        $('body').removeClass('white-content');
-                    });
                 });
             });
         </script>
