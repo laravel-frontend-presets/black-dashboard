@@ -356,7 +356,6 @@ The documentation for the Black Dashboard Laravel is hosted at our [website](htt
     │           │   │   _type.scss
     │           │   │   _utilities.scss
     │           │   │   _variables.scss
-    │           │   │   _white-content.scss
     │           │   │   
     │           │   ├───cards
     │           │   │       _card-chart.scss
