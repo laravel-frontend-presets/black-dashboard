@@ -15,3 +15,8 @@ All notable changes to `Black Dashboard` frontend preset for Laravel will be doc
 
 ## Version 1.0.2 - 1.0.3
   - Bugs fix
+  
+## Version 1.0.4 - 2019-09-23
+
+  - Update to Laravel 6.x
+
