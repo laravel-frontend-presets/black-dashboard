@@ -67,16 +67,13 @@
                     <div class="clearfix"></div>
                     </a>
                 </li>
-                <li class="adjustments-line text-center color-change">
-                    <span class="color-label">LIGHT MODE</span>
-                    <span class="badge light-badge mr-2"></span>
-                    <span class="badge dark-badge ml-2"></span>
-                    <span class="color-label">DARK MODE</span>
-                </li>
                 <li class="button-container">
                     <a href="https://www.creative-tim.com/product/black-dashboard-laravel" target="_blank" class="btn btn-primary btn-block btn-round">Download Now</a>
                     <a href="https://demos.creative-tim.com/black-dashboard/docs/1.0/getting-started/introduction.html" target="_blank" class="btn btn-default btn-block btn-round">
                     Documentation
+                    </a>
+                    <a href="https://www.creative-tim.com/product/black-dashboard-pro-laravel" target="_blank" class="btn btn-danger btn-block btn-round">
+                    Upgrade to PRO
                     </a>
                 </li>
                 <li class="header-title">Thank you for 95 shares!</li>
@@ -200,14 +197,6 @@
 
                                 white_color = true;
                             }
-                    });
-
-                    $('.light-badge').click(function() {
-                        $('body').addClass('white-content');
-                    });
-
-                    $('.dark-badge').click(function() {
-                        $('body').removeClass('white-content');
                     });
                 });
             });

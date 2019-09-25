@@ -5,7 +5,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">
-                    <h5 class="title">{{ _('Edit Profile') }}</h5>
+                    <h5 class="title">{{ __('Edit Profile') }}</h5>
                 </div>
                 <form method="post" action="{{ route('profile.update') }}" autocomplete="off">
                     <div class="card-body">
@@ -15,26 +15,26 @@
                             @include('alerts.success')
 
                             <div class="form-group{{ $errors->has('name') ? ' has-danger' : '' }}">
-                                <label>{{ _('Name') }}</label>
-                                <input type="text" name="name" class="form-control{{ $errors->has('name') ? ' is-invalid' : '' }}" placeholder="{{ _('Name') }}" value="{{ old('name', auth()->user()->name) }}">
+                                <label>{{ __('Name') }}</label>
+                                <input type="text" name="name" class="form-control{{ $errors->has('name') ? ' is-invalid' : '' }}" placeholder="{{ __('Name') }}" value="{{ old('name', auth()->user()->name) }}">
                                 @include('alerts.feedback', ['field' => 'name'])
                             </div>
 
                             <div class="form-group{{ $errors->has('email') ? ' has-danger' : '' }}">
-                                <label>{{ _('Email address') }}</label>
-                                <input type="email" name="email" class="form-control{{ $errors->has('email') ? ' is-invalid' : '' }}" placeholder="{{ _('Email address') }}" value="{{ old('email', auth()->user()->email) }}">
+                                <label>{{ __('Email address') }}</label>
+                                <input type="email" name="email" class="form-control{{ $errors->has('email') ? ' is-invalid' : '' }}" placeholder="{{ __('Email address') }}" value="{{ old('email', auth()->user()->email) }}">
                                 @include('alerts.feedback', ['field' => 'email'])
                             </div>
                     </div>
                     <div class="card-footer">
-                        <button type="submit" class="btn btn-fill btn-primary">{{ _('Save') }}</button>
+                        <button type="submit" class="btn btn-fill btn-primary">{{ __('Save') }}</button>
                     </div>
                 </form>
             </div>
 
             <div class="card">
                 <div class="card-header">
-                    <h5 class="title">{{ _('Password') }}</h5>
+                    <h5 class="title">{{ __('Password') }}</h5>
                 </div>
                 <form method="post" action="{{ route('profile.password') }}" autocomplete="off">
                     <div class="card-body">
@@ -60,7 +60,7 @@
                         </div>
                     </div>
                     <div class="card-footer">
-                        <button type="submit" class="btn btn-fill btn-primary">{{ _('Change password') }}</button>
+                        <button type="submit" class="btn btn-fill btn-primary">{{ __('Change password') }}</button>
                     </div>
                 </form>
             </div>
@@ -79,12 +79,12 @@
                                 <h5 class="title">{{ auth()->user()->name }}</h5>
                             </a>
                             <p class="description">
-                                {{ _('Ceo/Co-Founder') }}
+                                {{ __('Ceo/Co-Founder') }}
                             </p>
                         </div>
                     </p>
                     <div class="card-description">
-                        {{ _('Do not be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens’ bed design but the back is...') }}
+                        {{ __('Do not be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens’ bed design but the back is...') }}
                     </div>
                 </div>
                 <div class="card-footer">
