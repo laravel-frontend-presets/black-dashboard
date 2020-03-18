@@ -4,6 +4,8 @@ namespace LaravelFrontendPresets\BlackPreset;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\Console\PresetCommand;
+use Laravel\Ui\UiCommand; 
+use Laravel\Ui\AuthCommand;
 
 class BlackPresetServiceProvider extends ServiceProvider
 {
@@ -14,7 +16,7 @@ class BlackPresetServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        PresetCommand::macro('black', function ($command) {
+        UiCommand::macro('black', function ($command) {
             BlackPreset::install();
             
             $command->info('Black Dashboard scaffolding installed successfully.');
