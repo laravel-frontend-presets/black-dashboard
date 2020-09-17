@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-absolute navbar-transparent">
     <div class="container-fluid">
-        <div class="navbar-wrapper">
+        <div class="navbar-wrapper d-none">
             <div class="navbar-toggle d-inline">
                 <button type="button" class="navbar-toggler">
                     <span class="navbar-toggler-bar bar1"></span>
