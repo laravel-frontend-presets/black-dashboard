@@ -104,7 +104,7 @@ class BlackPreset extends Preset
         // Add Auth routes in 'routes/web.php'
         file_put_contents(
             './routes/web.php',
-            "Auth::routes();\n\nRoute::get('/home', 'HomeController@index')->name('home')->middleware('auth');\n\n",
+            "Auth::routes();\n\nRoute::get('/home', 'App\Http\Controllers\HomeController@index')->name('home')->middleware('auth');\n\n",
             FILE_APPEND
         );
         
@@ -122,7 +122,7 @@ class BlackPreset extends Preset
     public static function addUserManagement()
     {
         // Add seeder, controllers, requests and rules
-        static::copyDirectory('database/seeds', app_path('../database/seeds'));
+        static::copyDirectory('database/seeds', app_path('../database/seeders'));
                
         static::copyFile('app/Http/Controllers/UserController.php', app_path('Http/Controllers/UserController.php'));
         static::copyFile('app/Http/Controllers/ProfileController.php', app_path('Http/Controllers/ProfileController.php'));
@@ -132,7 +132,7 @@ class BlackPreset extends Preset
         // Add routes
         file_put_contents(
             './routes/web.php',
-            "Route::group(['middleware' => 'auth'], function () {\n\tRoute::resource('user', 'UserController', ['except' => ['show']]);\n\tRoute::get('profile', ['as' => 'profile.edit', 'uses' => 'ProfileController@edit']);\n\tRoute::put('profile', ['as' => 'profile.update', 'uses' => 'ProfileController@update']);\n\tRoute::put('profile/password', ['as' => 'profile.password', 'uses' => 'ProfileController@password']);\n});\n\n",
+            "Route::group(['middleware' => 'auth'], function () {\n\tRoute::resource('user', 'App\Http\Controllers\UserController', ['except' => ['show']]);\n\tRoute::get('profile', ['as' => 'profile.edit', 'uses' => 'App\Http\Controllers\ProfileController@edit']);\n\tRoute::put('profile', ['as' => 'profile.update', 'uses' => 'App\Http\Controllers\ProfileController@update']);\n\tRoute::put('profile/password', ['as' => 'profile.password', 'uses' => 'App\Http\Controllers\ProfileController@password']);\n});\n\n",
             FILE_APPEND
         );
 
@@ -151,7 +151,7 @@ class BlackPreset extends Preset
         // Add routes
         file_put_contents(
             './routes/web.php',
-            "Route::group(['middleware' => 'auth'], function () {\n\t\tRoute::get('icons', ['as' => 'pages.icons', 'uses' => 'PageController@icons']);\n\t\tRoute::get('maps', ['as' => 'pages.maps', 'uses' => 'PageController@maps']);\n\t\tRoute::get('notifications', ['as' => 'pages.notifications', 'uses' => 'PageController@notifications']);\n\t\tRoute::get('rtl', ['as' => 'pages.rtl', 'uses' => 'PageController@rtl']);\n\t\tRoute::get('tables', ['as' => 'pages.tables', 'uses' => 'PageController@tables']);\n\t\tRoute::get('typography', ['as' => 'pages.typography', 'uses' => 'PageController@typography']);\n\t\tRoute::get('upgrade', ['as' => 'pages.upgrade', 'uses' => 'PageController@upgrade']);\n});\n\n",
+            "Route::group(['middleware' => 'auth'], function () {\n\t\tRoute::get('icons', ['as' => 'pages.icons', 'uses' => 'App\Http\Controllers\PageController@icons']);\n\t\tRoute::get('maps', ['as' => 'pages.maps', 'uses' => 'App\Http\Controllers\PageController@maps']);\n\t\tRoute::get('notifications', ['as' => 'pages.notifications', 'uses' => 'App\Http\Controllers\PageController@notifications']);\n\t\tRoute::get('rtl', ['as' => 'pages.rtl', 'uses' => 'App\Http\Controllers\PageController@rtl']);\n\t\tRoute::get('tables', ['as' => 'pages.tables', 'uses' => 'App\Http\Controllers\PageController@tables']);\n\t\tRoute::get('typography', ['as' => 'pages.typography', 'uses' => 'App\Http\Controllers\PageController@typography']);\n\t\tRoute::get('upgrade', ['as' => 'pages.upgrade', 'uses' => 'App\Http\Controllers\PageController@upgrade']);\n});\n\n",
             FILE_APPEND
         );
 
