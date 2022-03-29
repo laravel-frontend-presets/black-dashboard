@@ -4,7 +4,7 @@
 
 *Frontend version*: Black Dashboard v1.0.0. More info at https://www.creative-tim.com/product/black-dashboard
 
-![Product Image](/screens/intro-black.gif)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/164/original/opt_blk_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/black-dashboard-laravel) 
 
 Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 9.x and up.
 
