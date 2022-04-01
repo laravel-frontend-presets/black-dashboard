@@ -4,9 +4,9 @@
 
 *Frontend version*: Black Dashboard v1.0.0. More info at https://www.creative-tim.com/product/black-dashboard
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/products/164/original/opt_blk_laravel_thumbnail.jpg?1561102244" width="100%" />](https://www.creative-tim.com/live/black-dashboard-laravel?ref=bdl-readme)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/164/original/opt_blk_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/black-dashboard-laravel) 
 
-Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 8.x and up.
+Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 9.x and up.
 
 ## Note
 
@@ -22,7 +22,7 @@ If you don't already have an Apache local environment with PHP and MySQL, use on
 
 Also, you will need to install Composer: https://getcomposer.org/doc/00-intro.md
 
-And Laravel: https://laravel.com/docs/8.x/installation
+And Laravel: https://laravel.com/docs/9.x/installation
 
 ## Installation
 
