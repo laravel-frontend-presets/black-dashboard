@@ -8,6 +8,8 @@
 
 Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 9.x and up.
 
+If you want to get more features, go PRO with [Black Dashboard PRO Laravel](https://www.creative-tim.com/product/black-dashboard-pro-laravel).
+
 ## Note
 
 We recommend installing this preset on a project that you are starting from scratch, otherwise your project's design might break.
