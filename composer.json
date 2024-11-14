@@ -1,11 +1,11 @@
 {
     "name": "laravel-frontend-presets/black-dashboard",
-    "description": "Laravel 10.x Front-end preset for black dashboard",
+    "description": "Laravel 11.x Front-end preset for black dashboard",
     "license": "MIT",
     "homepage": "https://github.com/creativetimofficial/black-dashboard-laravel",
     "keywords": ["Laravel", "Preset", "Black"],
     "require": {
-        "laravel/framework": "^10.0",
+        "laravel/framework": "^11.0",
         "laravel/legacy-factories": "^1.0"
 
     },
